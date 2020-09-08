@@ -1,6 +1,5 @@
 # BuscaCEPCorreios
 Buscar o CEP direto da busca dos correios. Desenvolvido com Python
 
-#Dependencias
-
+# Dependencias
 > easy_install beautifulsoup4
