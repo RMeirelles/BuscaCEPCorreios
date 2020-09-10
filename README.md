@@ -1,5 +1,5 @@
-# BuscaCEPCorreios
-Buscar o CEP direto da busca dos correios. Desenvolvido com Python
+# Rastreamento de Encomendas no Correio
+Rastrear sua encomenda direto da busca dos correios. Desenvolvido com Python
 
 # Dependencias
 
