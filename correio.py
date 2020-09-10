@@ -3,7 +3,7 @@ import json
 from bs4 import BeautifulSoup
 
 
-print('Qual o cep a ser pesquisado?')
+print('Qual o CEP a ser pesquisado?')
 
 while True:
 
@@ -38,4 +38,4 @@ while True:
             break
 
     else:
-        print('Digite um cep válido!')
+        print('Digite um CEP válido!')
