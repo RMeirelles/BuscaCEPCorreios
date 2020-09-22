@@ -1,5 +1,5 @@
-# Rastreamento de Encomendas no Correio
-Rastrear sua encomenda direto da busca dos correios. Desenvolvido com Python
+# Busca de CEP no Correio
+Desenvolvido com Python
 
 # Dependencias
 
